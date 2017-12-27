@@ -17,3 +17,10 @@ Then run these commands from a terminal:
 
 For a concise language reference, see: https://github.com/mattharrison/Tiny-Python-3.6-Notebook
 
+To start, clone this repo, change into the repo directory, and run this command from a terminal:
+
+    jupyter notebook
+
+This should open a web browser page with a list of the notebooks; start with "02 Using Jupyter.ipynb".
+
+
