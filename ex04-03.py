@@ -1,8 +1,8 @@
-df = pd.DataFrame(data)
+ex3df = pd.DataFrame(ex3data)
 
 # Generate a summary of the data
-df.describe()
+ex3df.describe()
 
 # Calculate the sum of all visits (the total number of visits).
-df.visits.sum()
+ex3df.visits.sum()
 

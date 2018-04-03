@@ -1,3 +1,3 @@
-del s['k']
-s['f':'i']
+del ex1s['k']
+ex1s['f':'i']
 
