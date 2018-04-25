@@ -1,11 +1,6 @@
-JUPYTER
-
-Incorporate changes from block post
-
 PYTHON
 
 Add section on virtualenvs.
-Incorporate changes from block post
 Add something on Cython?
 
 PANDAS
@@ -26,4 +21,4 @@ Add a little bit of theory on each type of algorithm used.
 ALL
 
 Move exercises into a separate notebook
-Make a lot of the pedagogical text that is in comments marekdown instead.
+Make a lot of the pedagogical text that is in comments markdown instead.
