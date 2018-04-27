@@ -1,18 +1,3 @@
-PYTHON
-
-Add section on virtualenvs.
-Add something on Cython?
-
-PANDAS
-
-Add section on handling outliers.
-Add more on multi-indexes.
-Aggregating and pivot tables: add some more info here, and on split-apply-combine pattern
-Add some custom transforms during data load into data frames
-Add more on categorical data
-Add more on hypothesis testing
-Add more on plotting
-
 SCIKIT
 
 In breast cancer example, use other model types too (1-hot encode etc)
